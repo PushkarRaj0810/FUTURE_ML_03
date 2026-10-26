@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+archive (2)/
+cleaned_resumes.csv
+*.pyc
+.streamlit/secrets.toml
